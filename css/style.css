@@ -178,13 +178,13 @@ ul {
 	width: 371px;
 	height: 374px;
 }
-.blue-back {
+/*.blue-back {
 	background-color: #325DFF;
 	border-radius: 44px;
 	width: 88px;
 	height: 88px;
 	margin: 78px 137px 16px 146px;
-}
+}*/
 .images1 {
 	margin: 17px 31px 35px 25px;
 }
@@ -217,13 +217,13 @@ ul {
 	height: 372px;
 	margin-top: 2px;
 }
-.blue-back2 {
+/*.blue-back2 {
 	background-color: #325DFF;
 	border-radius: 44px;
 	width: 88px;
 	height: 88px;
 	margin: 65px 140px 25px 141px;
-}
+}*/
 .images2 {
 	margin: 28px 31.5px 27.3px 32px;
 }
@@ -232,13 +232,13 @@ ul {
 	width: 371px;
 	height: 374px;
 }
-.blue-back3{
+/*.blue-back3{
 	background-color: #325DFF;
 	border-radius: 44px;
 	width: 88px;
 	height: 88px;
 	margin: 67px 141px 27px 142px;
-}
+}*/
 .images3 {
 	margin: 25.9px 27px;
 }
@@ -247,13 +247,13 @@ ul {
 	width: 371px;
 	height: 374px;
 }
-.blue-back4 {
+/*.blue-back4 {
 	background-color: #325DFF;
 	border-radius: 44px;
 	width: 88px;
 	height: 88px;
 	margin: 56px 140px 27px 143px;
-}
+}*/
 .images4 {
 	margin: 28px 29px 28px 31px;
 }
@@ -262,13 +262,13 @@ ul {
 	width: 371px;
 	height: 374px;
 }
-.blue-back5 {
+/*.blue-back5 {
 	background-color: #325DFF;
 	border-radius: 44px;
 	width: 88px;
 	height: 88px;
 	margin: 56px 141px 27px 142px;
-}
+}*/
 .images5 {
 	margin: 28px 29px;
 }
@@ -279,4 +279,41 @@ ul {
 }
 .images6 {
 	margin: 28px 27.8px 28px 28.2px;
+}
+
+/*Responsive*/
+.bl-bg:first-child {
+	background-color: #325DFF;
+	border-radius: 44px;
+	width: 88px;
+	height: 88px;
+	margin: 78px 137px 16px 146px;
+}
+.bl-bg:nth-child(2) {
+	background-color: #325DFF;
+	border-radius: 44px;
+	width: 88px;
+	height: 88px;
+	margin: 65px 140px 25px 141px;
+}
+.bl-bg:nth-child(3) {
+	background-color: #325DFF;
+	border-radius: 44px;
+	width: 88px;
+	height: 88px;
+	margin: 67px 141px 27px 142px;
+}
+.bl-bg:nth-child(4) {
+	background-color: #325DFF;
+	border-radius: 44px;
+	width: 88px;
+	height: 88px;
+	margin: 56px 140px 27px 143px;
+}
+.bl-bg:nth-child(5) {
+	background-color: #325DFF;
+	border-radius: 44px;
+	width: 88px;
+	height: 88px;
+	margin: 56px 141px 27px 142px;
 }
